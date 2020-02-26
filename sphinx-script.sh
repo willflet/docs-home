@@ -1,2 +1,2 @@
 #!/bin/sh
-sphinx-build -b html source/ docs/
+sphinx-build -b html source/ .
