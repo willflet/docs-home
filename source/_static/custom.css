@@ -1,9 +1,12 @@
+/* Custom css modifications */
+
 div.section h2 {
     text-shadow: none;
 }
 
 div.related ul li.right a {
     visibility: hidden;
+    border-radius: 3px;
 }
 
 div.section h2 a.headerlink:hover {
