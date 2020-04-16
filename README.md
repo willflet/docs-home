@@ -1,4 +1,4 @@
-# Docpages | Home
+# [Docpages | Home](https://docs.bayesiansaddles.com)
 
 ## Projects
 
