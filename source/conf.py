@@ -33,8 +33,8 @@ html_logo = '_static/logo.png'
 htmlhelp_basename = 'docpages'
 
 relbar_links = [
-    ["https://docs.bayesiansaddles.com", "Docpages Home"],
-    ["https://bayesiansaddles.com", "Main Site"]
+    ["https://docs.bayesiansaddles.com/index", "Docpages Home"],
+    ["https://bayesiansaddles.com/index", "Main Site"]
 ]
 
 html_theme_options = dict(
@@ -66,7 +66,7 @@ html_theme_options = dict(
     # link targets
     # NOTE: roottarget can be name of document (eg: 'index', or "<toc>")
     #       logotarget is same, or can be "<root>" to reflect root value
-    roottarget = "https://docs.bayesiansaddles.com",
+    roottarget = "https://docs.bayesiansaddles.com/index",
     logotarget = "<root>",
 
     # document dimensions
